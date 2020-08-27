@@ -46,6 +46,12 @@ header nav .left-side a:hover{
   body {
     background-color: lightblue;
   }
+header{
+width:100%;}
+section.about {
+width: 100%;}
+section.service{
+width:100%;}
 }
 .flex{
     display: flex;
