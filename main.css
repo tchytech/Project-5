@@ -78,10 +78,9 @@ header nav .logo{
 border-radius:6rem;
   }
   .btn-primary {
-      background: var(--primar .btn-secondary{
-      background: transparent;
-      color: var(--pure);
-      border-color: var(--primary);
+      background: var(--primary);
+     border-color: var(--dark);
+Color: white;
   }     
   .btn-primary:hover{
       background: transparent;
