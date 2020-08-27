@@ -57,6 +57,8 @@ header nav{
 header nav .logo{
     margin-right: 3rem;
 }
+.left img{
+border-radius: 2rem;}
 .btn{
     padding: 0.8rem 3rem;
     font-size: 1rem;
@@ -125,6 +127,7 @@ header nav .logo{
   }
  section.about .about-us-img{
      height: 450px;
+border-radius: 2rem;
  }
  section.about h1{
      margin-bottom: 1rem;
