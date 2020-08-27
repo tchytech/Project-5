@@ -125,6 +125,7 @@ header nav .logo{
   }
  section.about .about-us-img{
      height: 450px;
+Border-radius: 2rem;
  }
  section.about h1{
      margin-bottom: 1rem;
