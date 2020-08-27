@@ -67,10 +67,22 @@ header nav .logo{
     text-transform: uppercase;
     transition: all .3s ease;
 }
-  .btn-primary {
+ .btn-secondary1{
       background: var(--primary);
+      color: var(--pure);
+      border-color: var(--primary);
+  }
+  .btn-secondary1:hover{
+      background-color: var(--dark);
       color: var(--secondary);
-  }                      
+border-radius:6rem;
+  }
+  .btn-primary {
+      background: var(--primar .btn-secondary{
+      background: transparent;
+      color: var(--pure);
+      border-color: var(--primary);
+  }     
   .btn-primary:hover{
       background: transparent;
       border-color: var(--primary)
@@ -82,7 +94,6 @@ header nav .logo{
     color: var(--pure);
 
 }
-
   .content-container .right h6{
       font-size: 1.6rem;
       color: var(--primary);
