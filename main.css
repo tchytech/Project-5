@@ -71,10 +71,11 @@ header nav .logo{
       background: var(--primary);
       color: var(--pure);
       border-color: var(--primary);
+border-radius: 6rem;
   }
   .btn-secondary1:hover{
       background-color: var(--dark);
-      color: var(--secondary);
+      color: var(--pure);
 border-radius:6rem;
   }
   .btn-primary {
